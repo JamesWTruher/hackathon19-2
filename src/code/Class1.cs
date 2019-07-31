@@ -1,7 +1,7 @@
 using System;
 using System.Management.Automation;
 
-namespace hackathon19-2
+namespace hackathon192
 {
     [Cmdlet("verb","noun")]
     public class Cmdlet1 : PSCmdlet
