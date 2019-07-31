@@ -1,0 +1,8 @@
+{
+  "ModuleName": "hackathon19-2",
+  "TestPath": "test",
+  "BuildOutputPath": "out",
+  "Culture": "en-US",
+  "HelpPath": "help",
+  "SourcePath": "src"
+}
